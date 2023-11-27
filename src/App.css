@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.middleBox {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.boxes {
+  margin-top: 10px;
+}
+
+.btn {
+  margin: 5px;
+  background-color: #3c46ff;
+  color: white;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.body-box {
+  border: 1px solid black;
+  border-radius: 3px;
+  margin: 10px;
+}
